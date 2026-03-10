@@ -1,0 +1,32 @@
+# Ambiente virtual
+venv/
+env/
+.env/
+
+# Outputs gerados pelo modelo
+outputs/
+*.pkl
+
+# Dados brutos
+*.csv
+data/raw/
+ ~/.cache/kagglehub/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Sistema operacional
+.DS_Store        # macOS
+Thumbs.db        # Windows
