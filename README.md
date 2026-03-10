@@ -209,6 +209,7 @@ Após o treinamento, a pasta `outputs/` conterá:
 | `calibracao_comparacao.png` | Reliability Diagrams: sem calibração vs Platt vs Isotonic |
 | `threshold_analise.png` | Sensibilidade vs Especificidade por threshold |
 | `metricas.csv` | Todas as métricas exportadas para registro |
+| `casos_antigo.csv` | Métricas dos pacientes de casos reais documentados |
 
 ---
 
