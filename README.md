@@ -152,8 +152,7 @@ python predict.py --model outputs/modelo_cardiovascular.pkl
 python selecionar_casos.py --model outputs/modelo_cardiovascular.pkl
 ```
 
-**Usando um paciente em JSON:**
-
+**Usando um paciente em JSON criado por você:**
 Crie um arquivo `paciente.json`:
 ```json
 {
@@ -210,6 +209,7 @@ Após o treinamento, a pasta `outputs/` conterá:
 | `calibracao_comparacao.png` | Reliability Diagrams: sem calibração vs Platt vs Isotonic |
 | `threshold_analise.png` | Sensibilidade vs Especificidade por threshold |
 | `metricas.csv` | Todas as métricas exportadas para registro |
+| `casos_antigo.csv` | Métricas dos pacientes de casos reais documentados |
 
 ---
 
