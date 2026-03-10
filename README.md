@@ -269,4 +269,4 @@ Este modelo foi desenvolvido para fins acadêmicos e de pesquisa com dados do Ka
 
 ## 📄 Licença
 
-MIT License — veja o arquivo [LICENSE](LICENSE) para detalhes.
+MIT License — veja o arquivo [MIT License](LICENSE) para detalhes.
